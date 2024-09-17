@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-ProductAPI es una API RESTful desarrollada en .NET 8.0 como prueba técnica para Double V Partners que permite buscar productos en una tienda en línea y obtener información básica sobre ellos, todo a traves de un API (se aconseja usar POSTMAN para ello). Además, ofrece funcionalidades para guardar productos como "productos deseados" y consultarlos posteriormente.
+ProductAPI es una API RESTful desarrollada en .NET 8.0 y con Entity Framework como prueba técnica para Double V Partners que permite buscar productos en una tienda en línea y obtener información básica sobre ellos, todo a traves de un API (se aconseja usar POSTMAN para ello). Además, ofrece funcionalidades para guardar productos como "productos deseados" y consultarlos posteriormente.
 
 ## Requerimientos
 
